@@ -58,7 +58,7 @@ This project solves these problems by providing a simple web interface for bulk 
 
   ## Snapshot
   ### Start Page
-![Start Page](https://github.com/rishikesh199/Python_SQL_uploader/blob/main/Web_Start_Page.png)
+![Start Page](https://github.com/rishikesh199/Python_SQL_uploader/blob/main/Start_page.png)
 
 ### After Login
 ![AfterLogin.png](https://github.com/rishikesh199/Python_SQL_uploader/blob/main/Web_AfterLogin.png)
@@ -67,4 +67,4 @@ This project solves these problems by providing a simple web interface for bulk 
 ![Start Page](https://github.com/rishikesh199/Python_SQL_uploader/blob/main/Web_AfterSelectingMultipleFile.png)
 
 ### After Uploaded
-![After Uploaded](https://github.com/rishikesh199/Python_SQL_uploader/blob/main/Web_After_Uploaded).
+![After Uploaded](https://github.com/rishikesh199/Python_SQL_uploader/blob/main/Web_After_Uploaded.png)
