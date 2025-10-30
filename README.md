@@ -56,4 +56,15 @@ This project solves these problems by providing a simple web interface for bulk 
   3. Each file's data is uploaded to a separate table.
   4. Status messages are shown for each file.
 
-  ## Snapshot of Proccess
+  ## Snapshot
+  ### Start Page
+![Start Page](https://github.com/rishikesh199/Python_SQL_uploader/blob/main/Web_Start_Page.png)
+
+### After Login
+![AfterLogin.png](https://github.com/rishikesh199/Python_SQL_uploader/blob/main/Web_AfterLogin.png)
+
+### After Selecting Multiple Files
+![Start Page](https://github.com/rishikesh199/Python_SQL_uploader/blob/main/Web_AfterSelectingMultipleFile.png)
+
+### After Uploaded
+![After Uploaded](https://github.com/rishikesh199/Python_SQL_uploader/blob/main/Web_After_Uploaded).
